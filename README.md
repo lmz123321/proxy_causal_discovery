@@ -9,7 +9,7 @@ This repository contains the official implementations for the following papers:
 - ``real_world`` contains the code for ADNI causal discovery
 - ``tools`` contains all the utils functions
 
-
+(I am currently working on a more comprehensive version of codes and readme, I will update them as song as I finish ^_^ )
 
 ## Contact
 liumingzhou@stu.pku.edu.cn
